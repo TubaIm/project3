@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is project file
 
 This is second line
@@ -5,3 +6,10 @@ This is second line
 This is third line.
 
 
+=======
+This is project file
+
+This is second line
+
+This is third line.
+>>>>>>> a7590ca28d6df9aa85e7b6630fc1e7c221e0582f
